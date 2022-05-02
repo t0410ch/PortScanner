@@ -18,8 +18,7 @@ namespace PortScanner
             try
             {
                     Thread process = new Thread(new ThreadStart(scan.PortScan));
-                    process.Start();    
-
+                    process.Start();   
             }
             catch
             {

@@ -23,7 +23,7 @@ namespace PortScanner
         //定义线程对象
         private Thread scanThread;
         //定义端口状态数据（开放则为true，否则为false）
-        private bool[] done = new bool[65526];
+        private bool[] done = new bool[65535];
         private bool OK;
         private int cishu;
         TrojanJudge Trojan = new TrojanJudge();
@@ -33,7 +33,7 @@ namespace PortScanner
             Console.WriteLine("请输入你想扫描的IP地址：");
             hostAddress = Console.ReadLine();
             start = 0;
-            end = 655526;
+            end = 65535;
             Console.WriteLine("开始扫描！");
             Console.WriteLine("*********************************************");
             double x;

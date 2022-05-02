@@ -11,3 +11,16 @@ E:\桌面\PortScanner\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.pdb
 E:\桌面\PortScanner\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.dll
 E:\桌面\PortScanner\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.pdb
 E:\桌面\PortScanner\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.genruntimeconfig.cache
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.exe
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.deps.json
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.runtimeconfig.json
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.runtimeconfig.dev.json
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.dll
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.pdb
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.csprojAssemblyReference.cache
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.AssemblyInfoInputs.cache
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.AssemblyInfo.cs
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.csproj.CoreCompileInputs.cache
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.dll
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.pdb
+E:\桌面\PortScanner\PortScanner-TrojanJudge\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.genruntimeconfig.cache
