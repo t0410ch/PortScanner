@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\桌面\\PortScanner\\PortScanner\\PortScanner.csproj",
+      "projectUniqueName": "E:\\桌面\\PortScanner\\PortScanner-TrojanJudge\\PortScanner\\PortScanner.csproj",
       "projectName": "PortScanner",
-      "projectPath": "E:\\桌面\\PortScanner\\PortScanner\\PortScanner.csproj",
+      "projectPath": "E:\\桌面\\PortScanner\\PortScanner-TrojanJudge\\PortScanner\\PortScanner.csproj",
       "packagesPath": "C:\\Users\\tch\\.nuget\\packages\\",
-      "outputPath": "E:\\桌面\\PortScanner\\PortScanner\\obj\\",
+      "outputPath": "E:\\桌面\\PortScanner\\PortScanner-TrojanJudge\\PortScanner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tch\\AppData\\Roaming\\NuGet\\NuGet.Config",

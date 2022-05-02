@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kXJvY87GuPFOTA0WzXAJmvUW65Rkr+yN84p79f91PJcF/3cDoLUVFr5i1x61nt46pOBuL/QH/jIkEM6k6Wk15g==",
+  "dgSpecHash": "//oIirI+cBlL5u/IApVHyzb1UWY3tcWALDRqQCDPWvXapxevNQBbZmlD04WtMF6IHnAWICoj8NQGXZ6KUg1CLQ==",
   "success": true,
-  "projectFilePath": "E:\\桌面\\PortScanner\\PortScanner\\PortScanner.csproj",
+  "projectFilePath": "E:\\桌面\\PortScanner\\PortScanner-TrojanJudge\\PortScanner\\PortScanner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
